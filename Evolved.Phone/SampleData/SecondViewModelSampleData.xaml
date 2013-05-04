@@ -1,0 +1,17 @@
+﻿<ViewModels:SecondViewModel xmlns:ViewModels="clr-namespace:Evolved.Core.ViewModels;assembly=Evolved.Core" xmlns:Services="clr-namespace:Evolved.Core.Services;assembly=Evolved.Core" xmlns:ViewModels1="clr-namespace:Cirrious.MvvmCross.ViewModels;assembly=Cirrious.MvvmCross" Filter="Curabitur maecenas vestibulum aliquam nam">
+	<ViewModels:SecondViewModel.Kittens>
+		<Services:Kitten Id="33" ImageUrl="http://www.adatum.com/" Name="Aaberg, Jesper" Price="77"/>
+		<Services:Kitten Id="81" ImageUrl="http://www.adventure-works.com/" Name="Adams, Ellen" Price="97"/>
+		<Services:Kitten Id="69" ImageUrl="http://www.adventure-works.com/" Name="Adams, Terry" Price="67"/>
+		<Services:Kitten Id="48" ImageUrl="http://www.alpineskihouse.com/" Name="Adams, Terry" Price="45"/>
+		<Services:Kitten Id="33" ImageUrl="http://www.baldwinmuseumofscience.com/" Name="Penor, Lori" Price="52"/>
+		<Services:Kitten Id="52" ImageUrl="http://www.blueyonderairlines.com/" Name="Pfeiffer, Michael" Price="53"/>
+		<Services:Kitten Id="60" ImageUrl="http://www.cpandl.com/" Name="Philips, Carol" Price="47"/>
+		<Services:Kitten Id="34" ImageUrl="http://www.cohovineyard.com/" Name="Poe, Toni" Price="12"/>
+		<Services:Kitten Id="94" ImageUrl="http://www.cohowinery.com/" Name="Hicks, Cassie" Price="79"/>
+		<Services:Kitten Id="96" ImageUrl="http://www.contoso.com/" Name="Argentiero, Luca" Price="52"/>
+	</ViewModels:SecondViewModel.Kittens>
+	<ViewModels:SecondViewModel.RequestedBy>
+		<ViewModels1:MvxRequestedBy AdditionalInfo="Eget ipsum habitasse hendrerit" Type="AutomatedService"/>
+	</ViewModels:SecondViewModel.RequestedBy>
+</ViewModels:SecondViewModel>
